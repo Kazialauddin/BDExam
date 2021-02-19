@@ -77,3 +77,9 @@ F:\AK Work\2021\OnlineExamBD\OnlineExamBD\obj\Debug\OnlineExamBD.csproj.CoreComp
 F:\AK Work\2021\OnlineExamBD\OnlineExamBD\obj\Debug\OnlineExamBD.csproj.CopyComplete
 F:\AK Work\2021\OnlineExamBD\OnlineExamBD\obj\Debug\OnlineExamBD.dll
 F:\AK Work\2021\OnlineExamBD\OnlineExamBD\obj\Debug\OnlineExamBD.pdb
+F:\AK Work\2021\OnlineExamBD\OnlineExamBD\bin\EntityFramework.dll
+F:\AK Work\2021\OnlineExamBD\OnlineExamBD\bin\EntityFramework.SqlServer.dll
+F:\AK Work\2021\OnlineExamBD\OnlineExamBD\bin\EntityFramework.xml
+F:\AK Work\2021\OnlineExamBD\OnlineExamBD\bin\EntityFramework.SqlServer.xml
+F:\AK Work\2021\OnlineExamBD\OnlineExamBD\obj\Debug\OnlineExamBD.Migrations.FirstQ_A.resources
+F:\AK Work\2021\OnlineExamBD\OnlineExamBD\obj\Debug\OnlineExamBD.csproj.GenerateResource.cache
