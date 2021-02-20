@@ -83,3 +83,4 @@ F:\AK Work\2021\OnlineExamBD\OnlineExamBD\bin\EntityFramework.xml
 F:\AK Work\2021\OnlineExamBD\OnlineExamBD\bin\EntityFramework.SqlServer.xml
 F:\AK Work\2021\OnlineExamBD\OnlineExamBD\obj\Debug\OnlineExamBD.Migrations.FirstQ_A.resources
 F:\AK Work\2021\OnlineExamBD\OnlineExamBD\obj\Debug\OnlineExamBD.csproj.GenerateResource.cache
+F:\AK Work\2021\OnlineExamBD\OnlineExamBD\obj\Debug\OnlineExamBD.Migrations.Second_option.resources
