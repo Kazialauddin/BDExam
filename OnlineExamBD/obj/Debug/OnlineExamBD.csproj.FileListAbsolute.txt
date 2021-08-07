@@ -72,7 +72,6 @@ F:\AK Work\2021\OnlineExamBD\OnlineExamBD\bin\System.Web.WebPages.Razor.xml
 F:\AK Work\2021\OnlineExamBD\OnlineExamBD\bin\Newtonsoft.Json.xml
 F:\AK Work\2021\OnlineExamBD\OnlineExamBD\bin\Antlr3.Runtime.pdb
 F:\AK Work\2021\OnlineExamBD\OnlineExamBD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-F:\AK Work\2021\OnlineExamBD\OnlineExamBD\obj\Debug\OnlineExamBD.csprojAssemblyReference.cache
 F:\AK Work\2021\OnlineExamBD\OnlineExamBD\obj\Debug\OnlineExamBD.csproj.CoreCompileInputs.cache
 F:\AK Work\2021\OnlineExamBD\OnlineExamBD\obj\Debug\OnlineExamBD.csproj.CopyComplete
 F:\AK Work\2021\OnlineExamBD\OnlineExamBD\obj\Debug\OnlineExamBD.dll
@@ -81,6 +80,7 @@ F:\AK Work\2021\OnlineExamBD\OnlineExamBD\bin\EntityFramework.dll
 F:\AK Work\2021\OnlineExamBD\OnlineExamBD\bin\EntityFramework.SqlServer.dll
 F:\AK Work\2021\OnlineExamBD\OnlineExamBD\bin\EntityFramework.xml
 F:\AK Work\2021\OnlineExamBD\OnlineExamBD\bin\EntityFramework.SqlServer.xml
-F:\AK Work\2021\OnlineExamBD\OnlineExamBD\obj\Debug\OnlineExamBD.Migrations.FirstQ_A.resources
+F:\AK Work\2021\OnlineExamBD\OnlineExamBD\obj\Debug\OnlineExamBD.Migrations.first.resources
 F:\AK Work\2021\OnlineExamBD\OnlineExamBD\obj\Debug\OnlineExamBD.csproj.GenerateResource.cache
-F:\AK Work\2021\OnlineExamBD\OnlineExamBD\obj\Debug\OnlineExamBD.Migrations.Second_option.resources
+F:\AK Work\2021\OnlineExamBD\OnlineExamBD\obj\Debug\OnlineExamBD.csproj.AssemblyReference.cache
+F:\AK Work\2021\OnlineExamBD\OnlineExamBD\obj\Debug\OnlineExamBD.Migrations.ModelChange.resources

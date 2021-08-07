@@ -7,13 +7,13 @@ namespace OnlineExamBD.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.1.3-40302")]
-    public sealed partial class Second_option : IMigrationMetadata
+    public sealed partial class ModelChange : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(Second_option));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(ModelChange));
         
         string IMigrationMetadata.Id
         {
-            get { return "202102200840599_Second_option"; }
+            get { return "202108071750197_ModelChange"; }
         }
         
         string IMigrationMetadata.Source

@@ -131,13 +131,13 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202102191923219_FirstQ_A.cs" />
-    <Compile Include="Migrations\202102191923219_FirstQ_A.Designer.cs">
-      <DependentUpon>202102191923219_FirstQ_A.cs</DependentUpon>
+    <Compile Include="Migrations\202102200925200_first.cs" />
+    <Compile Include="Migrations\202102200925200_first.Designer.cs">
+      <DependentUpon>202102200925200_first.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202102200840599_Second_option.cs" />
-    <Compile Include="Migrations\202102200840599_Second_option.Designer.cs">
-      <DependentUpon>202102200840599_Second_option.cs</DependentUpon>
+    <Compile Include="Migrations\202108071750197_ModelChange.cs" />
+    <Compile Include="Migrations\202108071750197_ModelChange.Designer.cs">
+      <DependentUpon>202108071750197_ModelChange.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AppDbCOntext.cs" />
@@ -205,11 +205,11 @@
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202102191923219_FirstQ_A.resx">
-      <DependentUpon>202102191923219_FirstQ_A.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202102200925200_first.resx">
+      <DependentUpon>202102200925200_first.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202102200840599_Second_option.resx">
-      <DependentUpon>202102200840599_Second_option.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202108071750197_ModelChange.resx">
+      <DependentUpon>202108071750197_ModelChange.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

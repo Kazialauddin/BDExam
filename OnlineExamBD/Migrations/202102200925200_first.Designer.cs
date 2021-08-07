@@ -7,13 +7,13 @@ namespace OnlineExamBD.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.1.3-40302")]
-    public sealed partial class FirstQ_A : IMigrationMetadata
+    public sealed partial class first : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(FirstQ_A));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(first));
         
         string IMigrationMetadata.Id
         {
-            get { return "202102191923219_FirstQ_A"; }
+            get { return "202102200925200_first"; }
         }
         
         string IMigrationMetadata.Source

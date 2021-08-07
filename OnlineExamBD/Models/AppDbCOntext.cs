@@ -18,7 +18,7 @@ namespace OnlineExamBD.Models
         }
 
         // public DbSet<Questions> Questions { get; set; }77
-        public DbSet<Answer> answer { get; set; }
+        //public DbSet<Answer> answer { get; set; }
         public DbSet<Question> questions { get; set; }
         public DbSet<Options> options { get; set; }
     }
