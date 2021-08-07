@@ -56,12 +56,7 @@ namespace OnlineExamBD.Controllers
                 db.questions.Add(question);
 
                 var options = new Options();
-                //options = question.Options;
-
-                //var answer = new Answer();
-                //answer = question.Options;
-
-                //db.answer.Add(answer);
+             
                 db.options.Add(options);
 
                 db.SaveChanges();
