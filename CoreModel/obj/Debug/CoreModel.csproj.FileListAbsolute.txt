@@ -1,0 +1,6 @@
+F:\AK Work\2021\OnlineExamBD\CoreModel\bin\Debug\CoreModel.dll
+F:\AK Work\2021\OnlineExamBD\CoreModel\bin\Debug\CoreModel.pdb
+F:\AK Work\2021\OnlineExamBD\CoreModel\obj\Debug\CoreModel.csproj.CoreCompileInputs.cache
+F:\AK Work\2021\OnlineExamBD\CoreModel\obj\Debug\CoreModel.dll
+F:\AK Work\2021\OnlineExamBD\CoreModel\obj\Debug\CoreModel.pdb
+F:\AK Work\2021\OnlineExamBD\CoreModel\obj\Debug\CoreModel.csproj.AssemblyReference.cache

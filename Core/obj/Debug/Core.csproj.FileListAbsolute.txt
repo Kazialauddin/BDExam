@@ -1,0 +1,6 @@
+F:\AK Work\2021\OnlineExamBD\Core\bin\Debug\Core.dll
+F:\AK Work\2021\OnlineExamBD\Core\bin\Debug\Core.pdb
+F:\AK Work\2021\OnlineExamBD\Core\obj\Debug\Core.csproj.CoreCompileInputs.cache
+F:\AK Work\2021\OnlineExamBD\Core\obj\Debug\Core.dll
+F:\AK Work\2021\OnlineExamBD\Core\obj\Debug\Core.pdb
+F:\AK Work\2021\OnlineExamBD\Core\obj\Debug\Core.csproj.AssemblyReference.cache

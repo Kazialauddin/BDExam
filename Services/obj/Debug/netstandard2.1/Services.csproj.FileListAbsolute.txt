@@ -1,0 +1,9 @@
+F:\AK Work\2021\OnlineExamBD\Services\bin\Debug\netstandard2.1\Services.deps.json
+F:\AK Work\2021\OnlineExamBD\Services\bin\Debug\netstandard2.1\Services.dll
+F:\AK Work\2021\OnlineExamBD\Services\bin\Debug\netstandard2.1\Services.pdb
+F:\AK Work\2021\OnlineExamBD\Services\obj\Debug\netstandard2.1\Services.csproj.AssemblyReference.cache
+F:\AK Work\2021\OnlineExamBD\Services\obj\Debug\netstandard2.1\Services.AssemblyInfoInputs.cache
+F:\AK Work\2021\OnlineExamBD\Services\obj\Debug\netstandard2.1\Services.AssemblyInfo.cs
+F:\AK Work\2021\OnlineExamBD\Services\obj\Debug\netstandard2.1\Services.csproj.CoreCompileInputs.cache
+F:\AK Work\2021\OnlineExamBD\Services\obj\Debug\netstandard2.1\Services.dll
+F:\AK Work\2021\OnlineExamBD\Services\obj\Debug\netstandard2.1\Services.pdb

@@ -80,7 +80,13 @@ F:\AK Work\2021\OnlineExamBD\OnlineExamBD\bin\EntityFramework.dll
 F:\AK Work\2021\OnlineExamBD\OnlineExamBD\bin\EntityFramework.SqlServer.dll
 F:\AK Work\2021\OnlineExamBD\OnlineExamBD\bin\EntityFramework.xml
 F:\AK Work\2021\OnlineExamBD\OnlineExamBD\bin\EntityFramework.SqlServer.xml
-F:\AK Work\2021\OnlineExamBD\OnlineExamBD\obj\Debug\OnlineExamBD.Migrations.first.resources
-F:\AK Work\2021\OnlineExamBD\OnlineExamBD\obj\Debug\OnlineExamBD.csproj.GenerateResource.cache
 F:\AK Work\2021\OnlineExamBD\OnlineExamBD\obj\Debug\OnlineExamBD.csproj.AssemblyReference.cache
-F:\AK Work\2021\OnlineExamBD\OnlineExamBD\obj\Debug\OnlineExamBD.Migrations.ModelChange.resources
+F:\AK Work\2021\OnlineExamBD\OnlineExamBD\bin\ClassLibrary1.dll
+F:\AK Work\2021\OnlineExamBD\OnlineExamBD\bin\CoreModel.dll
+F:\AK Work\2021\OnlineExamBD\OnlineExamBD\bin\ClassLibrary1.pdb
+F:\AK Work\2021\OnlineExamBD\OnlineExamBD\bin\ClassLibrary1.dll.config
+F:\AK Work\2021\OnlineExamBD\OnlineExamBD\bin\CoreModel.pdb
+F:\AK Work\2021\OnlineExamBD\OnlineExamBD\obj\Debug\OnlineExamBD.Migrations.First.resources
+F:\AK Work\2021\OnlineExamBD\OnlineExamBD\obj\Debug\OnlineExamBD.csproj.GenerateResource.cache
+F:\AK Work\2021\OnlineExamBD\OnlineExamBD\obj\Debug\OnlineExamBD.Migrations._2nd.resources
+F:\AK Work\2021\OnlineExamBD\OnlineExamBD\obj\Debug\OnlineExamBD.Migrations._3rd.resources
